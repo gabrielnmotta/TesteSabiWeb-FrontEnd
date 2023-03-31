@@ -39,6 +39,8 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+## What I did?
+
+CRUD system in tables is an application that allows the creation, reading, updating and deletion of records in a table of a database, allowing the user to interact with the data in a web environment. The table is displayed in an HTML page, where the user can view and interact with the data, creating new records, updating or deleting existing records. This type of system is widely used in content management applications, inventory, sales, among other areas, facilitating the management of large volumes of information and ensuring data integrity.
 
 Link -> https://teste-sabi-web-front-end.vercel.app/
