@@ -1,0 +1,63 @@
+.mainForm{
+    max-width: 1120px;
+    margin: 0 auto;
+    padding: 5rem 2rem 1rem;
+
+     
+}
+
+.mainForm label {
+        display: inline-flex;
+        flex-direction: column;
+        gap: 0.5rem;
+}
+
+
+.inside {
+    border: 1px solid  rgba(19, 24, 25, 0.3);
+        padding: 3rem 2rem;
+        border-radius: 20px;
+        display: flex;
+        flex-wrap: wrap;
+}
+
+.inside label:nth-child(1) {
+    width: 50%;
+    padding-right: 1rem;
+}
+
+.inside label:nth-child(2) {
+    width: 50%;
+}
+
+.inside label:nth-child(3) {
+    width: 40%;
+    padding-right: 1rem;
+}
+
+.inside label:nth-child(4) {
+    width: 10%;
+    padding-right: 1rem;
+}
+
+.inside label:nth-child(5) {
+    width: 50%;
+}
+
+
+
+
+.formButton {
+    display: flex;
+    justify-content: flex-end;       
+}
+
+.formButton button {  
+        width: 12rem;
+        height: 3rem;
+        background-color: #928abd;
+        border: none;
+        color: white;
+        border-radius: 2px;
+        margin: 5rem 0 0 2rem;  
+}
